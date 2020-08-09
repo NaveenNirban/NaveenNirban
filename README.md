@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://avatars1.githubusercontent.com/u/45135123?s=400&u=7a7db7e35322e31be7bdafca4e303ba02310d7b3&v=4)
 
 <!--
 **NaveenNirban/NaveenNirban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
